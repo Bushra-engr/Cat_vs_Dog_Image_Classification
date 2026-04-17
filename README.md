@@ -105,3 +105,4 @@ model.save('cat_dog_cnn_model.keras')
 🧠 MobileNetV2 = Lightweight & efficient
 🛠️ Proper preprocessing is critical
 💡 Works well even on CPU
+
